@@ -1,0 +1,45 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/stick"
+  },
+  "overrides": [
+ {"predicate": {"custom_model_data":1}, "model": "custom/barrier"},
+ {"predicate": {"custom_model_data":2}, "model": "custom/stone"},
+ {"predicate": {"custom_model_data":3}, "model": "custom/sand"},
+ {"predicate": {"custom_model_data":4}, "model": "custom/polished_diorite"},
+ {"predicate": {"custom_model_data":5}, "model": "custom/netherrack"},
+ {"predicate": {"custom_model_data":6}, "model": "custom/ice"},
+ {"predicate": {"custom_model_data":7}, "model": "custom/dirt"},
+ {"predicate": {"custom_model_data":8}, "model": "custom/diorite"},
+ {"predicate": {"custom_model_data":9}, "model": "custom/deepslate"},
+ {"predicate": {"custom_model_data":10}, "model": "custom/crafting_table_top"},
+ {"predicate": {"custom_model_data":11}, "model": "custom/cobblestone"},
+ {"predicate": {"custom_model_data":12}, "model": "custom/cobbled_deepslate"},
+ {"predicate": {"custom_model_data":13}, "model": "custom/bamboo_block"},
+ {"predicate": {"custom_model_data":14}, "model": "custom/andesite"},
+ {"predicate": {"custom_model_data":15}, "model": "custom/basalt"},
+ {"predicate": {"custom_model_data":16}, "model": "custom/bee_nest"},
+ {"predicate": {"custom_model_data":17}, "model": "custom/beehive"},
+ {"predicate": {"custom_model_data":18}, "model": "custom/birch_log"},
+ {"predicate": {"custom_model_data":19}, "model": "custom/bone_block"},
+ {"predicate": {"custom_model_data":20}, "model": "custom/bricks"},
+ {"predicate": {"custom_model_data":21}, "model": "custom/bubble_coral"},
+ {"predicate": {"custom_model_data":22}, "model": "custom/cherry_log"},
+ {"predicate": {"custom_model_data":23}, "model": "custom/copper_block"},
+ {"predicate": {"custom_model_data":24}, "model": "custom/dark_oak"},
+ {"predicate": {"custom_model_data":25}, "model": "custom/glass"},
+ {"predicate": {"custom_model_data":26}, "model": "custom/granite"},
+ {"predicate": {"custom_model_data":27}, "model": "custom/honey_block"},
+ {"predicate": {"custom_model_data":28}, "model": "custom/jungle_log"},
+ {"predicate": {"custom_model_data":29}, "model": "custom/mangrove_log"},
+ {"predicate": {"custom_model_data":30}, "model": "custom/mud"},
+ {"predicate": {"custom_model_data":31}, "model": "custom/oak_log"},
+ {"predicate": {"custom_model_data":32}, "model": "custom/scaffolding"},
+ {"predicate": {"custom_model_data":33}, "model": "custom/songe"},
+ {"predicate": {"custom_model_data":34}, "model": "custom/spruce_log"},
+ {"predicate": {"custom_model_data":35}, "model": "custom/tuff"}
+ ]
+}
+
+}
